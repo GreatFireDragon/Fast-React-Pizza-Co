@@ -1,5 +1,4 @@
 import Button from "../../ui/Button";
-import LinkButton from "../../ui/LinkButton";
 
 function EmptyCart() {
   return (
